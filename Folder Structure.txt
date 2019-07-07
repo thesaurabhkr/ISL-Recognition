@@ -1,0 +1,31 @@
+Folder Structure
+----------------
+
+Project 
+	- Dataset
+		-ABOVE
+			-Set 1 to 6
+		-ACROSS
+			-Set 1 to 6
+		-ADVANCE
+			-Set 1 to 6
+		-AFRAID
+			-Set 1 to 6
+		-ALL
+			-Set 1 to 6
+		-ALONE
+			-Set 1 to 6
+		-ARISE
+			-Set 1 to 6
+		-BAG
+			-Set 1 to 6
+		-BELOW
+			-Set 1 to 6
+		-BRING
+			-Set 1 to 6
+		.
+		.
+		.
+
+	- TEST 
+
